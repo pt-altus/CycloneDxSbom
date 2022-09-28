@@ -1,0 +1,3580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bom serialNumber="urn:uuid:c32519aa-0c3a-45a0-8450-f6b7e56f0e56" version="1" xmlns="http://cyclonedx.org/schema/bom/1.4">
+  <metadata>
+    <timestamp>2022-09-21T09:44:59Z</timestamp>
+  </metadata>
+  <components>
+    <component type="library">
+      <group>org.hdrhistogram</group>
+      <name>HdrHistogram</name>
+      <version>2.1.12</version>
+      <hashes>
+        <hash alg="SHA-1">6eb7552156e0d517ae80</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>CC0-1.0</id>
+          <name>CC0-1.0</name>
+        </license>
+        <license>
+          <id>PUBLIC-DOMAIN</id>
+          <name>Public Domain</name>
+        </license>
+        <license>
+          <id>BSD-2-Clause</id>
+          <name>BSD-2-Clause</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.hdrhistogram/HdrHistogram@2.1.12?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.latencyutils</group>
+      <name>LatencyUtils</name>
+      <version>2.0.3</version>
+      <hashes>
+        <hash alg="SHA-1">769c0b82cb2421c82563</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>CC0-1.0</id>
+          <name>CC0-1.0</name>
+        </license>
+        <license>
+          <id>PUBLIC-DOMAIN</id>
+          <name>Public Domain</name>
+        </license>
+        <license>
+          <id>UNKNOWN</id>
+          <name>Non-Standard</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.latencyutils/LatencyUtils@2.0.3?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">217c70b0f3baa68cda8e</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+        <license>
+          <id>No-Sources</id>
+          <name>No Sources</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-acm</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">a9b855ede38832e367fe</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-acm@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-alexaforbusiness</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">5164416765b7d3ebe4cd</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-alexaforbusiness@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-api-gateway</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">0495d387ae3155e28aa5</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-api-gateway@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-applicationautoscaling</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">041e777bb4c4e4cfa9d7</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-applicationautoscaling@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-appstream</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">7bcf3e813fc844c49fbb</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-appstream@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-appsync</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">157ae374d4985022a54c</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-appsync@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-athena</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">a1710f53abf336bcb567</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-athena@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-autoscaling</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">39ebc4541ff966f7afde</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-autoscaling@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-autoscalingplans</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">2dc77d9fe97c364ae372</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-autoscalingplans@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-batch</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">95e4fdbf7762e769e0c0</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-batch@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-budgets</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">4aadb203010da6385b55</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-budgets@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-cloud9</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">77b856e39a3b805101b8</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-cloud9@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-clouddirectory</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">2dd62b6331f522321b64</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-clouddirectory@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-cloudformation</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">5e95304fbca78432ee59</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-cloudformation@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-cloudfront</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">bf6060c070e4fdb029cd</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-cloudfront@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-cloudhsm</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">ce8baeb063d95db7210c</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-cloudhsm@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-cloudhsmv2</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">a3a086977c4b7b30842e</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-cloudhsmv2@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-cloudsearch</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">13415f55fb57083bc57c</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-cloudsearch@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-cloudtrail</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">e404ed7ae55a6097b856</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-cloudtrail@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-cloudwatch</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">823dd298444a6e26febd</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-cloudwatch@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-cloudwatchmetrics</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">58af4976e6a9906b6e0a</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-cloudwatchmetrics@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-codebuild</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">53989525956546c62035</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-codebuild@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-codecommit</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">df571850ab75f243eff9</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-codecommit@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-codedeploy</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">03cf6ca5f9a3825285cd</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-codedeploy@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-codepipeline</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">449c863d1d2143b39c43</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-codepipeline@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-codestar</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">686774fe45e21f0fdb18</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-codestar@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-cognitoidentity</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">31fff46e8ddb7eea3103</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-cognitoidentity@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-cognitoidp</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">4bc6bea3452b76f2b1a5</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-cognitoidp@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-cognitosync</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">09138425513e9f7b7d30</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-cognitosync@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-comprehend</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">a033a1bc00c508a49044</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-comprehend@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-config</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">8410b16b3c0fcff8d0ce</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-config@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-core</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">391ba865b89011e5f631</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-core@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-costandusagereport</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">b8432fb0b05ffa564021</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-costandusagereport@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-costexplorer</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">5c80e0fa9d52f233e02c</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-costexplorer@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-datapipeline</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">97adcaac1c22164c441d</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-datapipeline@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-dax</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">c84bd37b3065121013ff</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-dax@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-devicefarm</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">f6458f64d0dc3f3e5809</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-devicefarm@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-directconnect</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">4bf29faf0db6c23f4cd9</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-directconnect@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-directory</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">4d2a8a1436088cec07a0</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-directory@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-discovery</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">94afb1d73f7f64d61834</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-discovery@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-dms</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">256bdc79b07e265bbf7c</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-dms@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-dynamodb</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">52fee224c2e0c100ff19</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-dynamodb@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-ec2</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">62c38cc63a371a69d150</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-ec2@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-ecr</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">48a586c5d946564ee49d</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-ecr@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-ecs</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">8ef7683456763b06bb9c</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-ecs@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-efs</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">0af7bfe9f50efc89fa5b</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-efs@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-elasticache</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">4b559f21167343d013e3</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-elasticache@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-elasticbeanstalk</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">2a8755e006fd66fffb44</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-elasticbeanstalk@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-elasticloadbalancing</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">9a151b68c9758c1e3932</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-elasticloadbalancing@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-elasticloadbalancingv2</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">b19bc87ef3719ef5b32a</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-elasticloadbalancingv2@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-elasticsearch</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">8fcd90ff15222948d1e6</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-elasticsearch@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-elastictranscoder</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">ba123c2600a671535fb0</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-elastictranscoder@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-emr</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">ba80a584b4c462b5dc16</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-emr@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-events</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">6db17654be19d5654684</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-events@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-gamelift</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">8e15035d6742a539ab6a</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-gamelift@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-glacier</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">339ff44f125fdaf14e54</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-glacier@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-glue</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">df5ce799e3375fd11a5d</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-glue@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-greengrass</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">381577cd026fcab228c2</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-greengrass@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-guardduty</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">3c9706056a59405cc827</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-guardduty@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-health</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">c122c716d9b74950d83a</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-health@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-iam</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">4fe4f795c02d3efcf470</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-iam@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-importexport</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">ad2855301b1b63877be6</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-importexport@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-inspector</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">e41eaa0acbc1b4983872</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-inspector@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-iot</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">07b871e88295b3cf6ef9</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-iot@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-iotjobsdataplane</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">dbc5878850a3050e6af4</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-iotjobsdataplane@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-kinesis</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">5d092ad9643a0564abf2</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-kinesis@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-kinesisvideo</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">2f0c3bbfafd35bea2884</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-kinesisvideo@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-kms</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">fc5cd149aa1ecc78be63</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-kms@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-lambda</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">389aa849fbd01507d4b6</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-lambda@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-lex</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">1ba5fca0ec9211db8ef4</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-lex@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-lexmodelbuilding</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">d4b0caa26daf6948de5c</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-lexmodelbuilding@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-lightsail</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">970345a3d68d2e8b65a3</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-lightsail@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-logs</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">efd6ac1cd19f87638c36</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-logs@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-machinelearning</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">ea71ad513e6c53963917</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-machinelearning@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-marketplacecommerceanalytics</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">1bd988fb7db18521906a</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-marketplacecommerceanalytics@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-marketplaceentitlement</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">4193d7ffae031c398a0d</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-marketplaceentitlement@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-marketplacemeteringservice</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">e965f717448299367b66</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-marketplacemeteringservice@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-mechanicalturkrequester</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">65685f8dd1a8c10219ef</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-mechanicalturkrequester@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-mediaconvert</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">6d91f1f99489d3475e84</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-mediaconvert@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-medialive</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">7dd8c2757a25eb3f00fd</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-medialive@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-mediapackage</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">63a1ed55a2de40d025da</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-mediapackage@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-mediastore</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">fdcbb7decdc2bb09847a</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-mediastore@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-mediastoredata</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">867ef4ff511157f66eeb</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-mediastoredata@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-migrationhub</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">6ec1d52fb9be4c3afc16</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-migrationhub@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-mobile</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">4e5f4b4138ae9b962376</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-mobile@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-models</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">84b57ec2203f2ea3626b</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-models@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-mq</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">a386a6f1c96ecfc0f390</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-mq@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-opsworks</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">b950304c183fbf84fbfd</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-opsworks@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-opsworkscm</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">59c20edf3dd07db06c6f</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-opsworkscm@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-organizations</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">cb2155dd2a8494016bf8</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-organizations@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-pinpoint</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">311046bf225ea37ed29e</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-pinpoint@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-polly</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">1199c25615478d73466a</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-polly@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-pricing</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">f9976787924ecfc5038e</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-pricing@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-rds</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">b8a05ae964ea8f2d58b7</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-rds@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-redshift</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">28717effe33182060c54</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-redshift@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-rekognition</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">b6f23be52996abebea17</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-rekognition@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-resourcegroups</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">e23c28aae0a876f7ab0d</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-resourcegroups@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-resourcegroupstaggingapi</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">6662d75fc5c0154e3d32</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-resourcegroupstaggingapi@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-route53</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">fcec32997f9eac0a549a</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-route53@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-s3</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">6263187d6dcb5a8c6d0a</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-s3@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-sagemaker</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">45e391099b53fec54f79</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-sagemaker@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-sagemakerruntime</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">095d2063212eebb783ee</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-sagemakerruntime@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-serverlessapplicationrepository</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">8b25c19da1c1545e3e8d</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-serverlessapplicationrepository@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-servermigration</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">c4e8d26e295f645899fe</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-servermigration@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-servicecatalog</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">bf9b59088cf291e6d420</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-servicecatalog@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-servicediscovery</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">fea5824a939d5731b4be</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-servicediscovery@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-ses</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">d2fc8f376f1150277116</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-ses@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-shield</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">4988f1fd20e1e86f1c1a</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-shield@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-simpledb</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">502943544f2857699538</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-simpledb@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-simpleworkflow</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">122874adc9eb43429da6</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-simpleworkflow@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-snowball</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">b7851b6618fb8b53d531</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-snowball@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-sns</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">e72545de34fafad001ba</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-sns@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-sqs</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">d3db0140cc075b51ddc7</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-sqs@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-ssm</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">04e6cd222c9650399914</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-ssm@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-stepfunctions</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">bee96ead76b98110c525</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-stepfunctions@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-storagegateway</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">49c6eadc6f1ef3e3b2b5</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-storagegateway@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-sts</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">81869e63c9f52f917416</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-sts@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-support</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">6d2596762962cf059a4c</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-support@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-swf-libraries</name>
+      <version>1.11.22</version>
+      <hashes>
+        <hash alg="SHA-1">04bb64607f756c0c1f42</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-swf-libraries@1.11.22?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-transcribe</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">9645063bd6a13cc87019</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-transcribe@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-translate</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">30bf447302a58b35a9f3</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-translate@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-waf</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">3ce23899d9206b23e4b7</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-waf@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-workdocs</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">454e0bf7e6e6f9e4c931</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-workdocs@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-workmail</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">09641427d7af84c176fe</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-workmail@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-workspaces</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">2a4dbd8dd415fd16f251</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-workspaces@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-xray</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">46e822f4f0a3bd3bfbad</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-xray@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.bouncycastle</group>
+      <name>bcpkix-jdk15on</name>
+      <version>1.68</version>
+      <hashes>
+        <hash alg="SHA-1">81da950604ff0b265234</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>MIT</id>
+          <name>MIT</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.bouncycastle/bcpkix-jdk15on@1.68?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.bouncycastle</group>
+      <name>bcprov-jdk15on</name>
+      <version>1.69</version>
+      <hashes>
+        <hash alg="SHA-1">91e1628251cf3ca90093</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Bouncycastle-license</id>
+          <name>Bouncycastle-license</name>
+        </license>
+        <license>
+          <id>MIT</id>
+          <name>MIT</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.bouncycastle/bcprov-jdk15on@1.69?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>io.github.classgraph</group>
+      <name>classgraph</name>
+      <version>4.8.143</version>
+      <hashes>
+        <hash alg="SHA-1">7a7a9cd5eaa8566c5b1e</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>MIT</id>
+          <name>MIT</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/io.github.classgraph/classgraph@4.8.143?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.fasterxml</group>
+      <name>classmate</name>
+      <version>1.5.1</version>
+      <hashes>
+        <hash alg="SHA-1">3fe0bed568c62df5e89f</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.fasterxml/classmate@1.5.1?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>commons-codec</group>
+      <name>commons-codec</name>
+      <version>1.15</version>
+      <hashes>
+        <hash alg="SHA-1">49d94806b6e3dc933dac</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/commons-codec/commons-codec@1.15?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.apache.commons</group>
+      <name>commons-lang3</name>
+      <version>3.0</version>
+      <hashes>
+        <hash alg="SHA-1">8873bd0bb5cb9ee37f1b</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.apache.commons/commons-lang3@3.0?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>commons-logging</group>
+      <name>commons-logging</name>
+      <version>1.1.1</version>
+      <hashes>
+        <hash alg="SHA-1">5043bfebc3db072ed80f</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/commons-logging/commons-logging@1.1.1?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.hibernate.validator</group>
+      <name>hibernate-validator</name>
+      <version>6.2.3.Final</version>
+      <hashes>
+        <hash alg="SHA-1">ea4545d1a97b27bada5f</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>PUBLIC-DOMAIN</id>
+          <name>Public Domain</name>
+        </license>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.hibernate.validator/hibernate-validator@6.2.3.Final?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.apache.httpcomponents</group>
+      <name>httpclient</name>
+      <version>4.5.13</version>
+      <hashes>
+        <hash alg="SHA-1">e5f6cae5ca7ecaac1ec2</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.apache.httpcomponents/httpclient@4.5.13?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.apache.httpcomponents</group>
+      <name>httpcore</name>
+      <version>4.4.15</version>
+      <hashes>
+        <hash alg="SHA-1">7f2e0c573eaa7a74bac2</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.apache.httpcomponents/httpcore@4.4.15?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>software.amazon.ion</group>
+      <name>ion-java</name>
+      <version>1.0.2</version>
+      <hashes>
+        <hash alg="SHA-1">ee9dacea7726e495f835</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/software.amazon.ion/ion-java@1.0.2?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.fasterxml.jackson.core</group>
+      <name>jackson-annotations</name>
+      <version>2.13.2</version>
+      <hashes>
+        <hash alg="SHA-1">ec18851f1976d5b810ae</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.13.2?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.fasterxml.jackson.core</group>
+      <name>jackson-core</name>
+      <version>2.13.2</version>
+      <hashes>
+        <hash alg="SHA-1">0a6a0e0620d51833feff</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.fasterxml.jackson.core/jackson-core@2.13.2?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.fasterxml.jackson.core</group>
+      <name>jackson-databind</name>
+      <version>2.13.2.2</version>
+      <hashes>
+        <hash alg="SHA-1">ffeb635597d093509f33</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.13.2.2?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.fasterxml.jackson.dataformat</group>
+      <name>jackson-dataformat-cbor</name>
+      <version>2.12.3</version>
+      <hashes>
+        <hash alg="SHA-1">d72a74232dd4cb9cd7b0</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor@2.12.3?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.fasterxml.jackson.dataformat</group>
+      <name>jackson-dataformat-yaml</name>
+      <version>2.13.2</version>
+      <hashes>
+        <hash alg="SHA-1">5601496b5b6e43d947ae</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.13.2?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.fasterxml.jackson.datatype</group>
+      <name>jackson-datatype-jdk8</name>
+      <version>2.13.2</version>
+      <hashes>
+        <hash alg="SHA-1">95f59cf63c3aadc15495</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8@2.13.2?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.fasterxml.jackson.datatype</group>
+      <name>jackson-datatype-jsr310</name>
+      <version>2.13.2</version>
+      <hashes>
+        <hash alg="SHA-1">cddd9380efd4b81ea01e</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310@2.13.2?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.github.joschi.jackson</group>
+      <name>jackson-datatype-threetenbp</name>
+      <version>2.6.4</version>
+      <hashes>
+        <hash alg="SHA-1">c6d7f6cd51e7280cbbee</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.github.joschi.jackson/jackson-datatype-threetenbp@2.6.4?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.fasterxml.jackson.module</group>
+      <name>jackson-module-parameter-names</name>
+      <version>2.13.2</version>
+      <hashes>
+        <hash alg="SHA-1">c406ec37f89125d10030</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.fasterxml.jackson.module/jackson-module-parameter-names@2.13.2?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>jakarta.activation</group>
+      <name>jakarta.activation-api</name>
+      <version>1.2.2</version>
+      <hashes>
+        <hash alg="SHA-1">99f53adba383cb1bf7c3</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>EDL-1.0</id>
+          <name>EDL-1.0</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/jakarta.activation/jakarta.activation-api@1.2.2?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>jakarta.annotation</group>
+      <name>jakarta.annotation-api</name>
+      <version>1.3.5</version>
+      <hashes>
+        <hash alg="SHA-1">59eb84ee0d616332ff44</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>GPL-2.0-with-classpath-exception</id>
+          <name>GPL-2.0-with-classpath-exception</name>
+        </license>
+        <license>
+          <id>EPL-2.0</id>
+          <name>EPL-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/jakarta.annotation/jakarta.annotation-api@1.3.5?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>jakarta.validation</group>
+      <name>jakarta.validation-api</name>
+      <version>2.0.2</version>
+      <hashes>
+        <hash alg="SHA-1">5eacc6522521f7eacb08</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/jakarta.validation/jakarta.validation-api@2.0.2?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>jakarta.xml.bind</group>
+      <name>jakarta.xml.bind-api</name>
+      <version>2.3.3</version>
+      <hashes>
+        <hash alg="SHA-1">48e3b9cfc10752fba352</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>EDL-1.0</id>
+          <name>EDL-1.0</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@2.3.3?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>javax.activation</group>
+      <name>javax.activation-api</name>
+      <version>1.2.0</version>
+      <hashes>
+        <hash alg="SHA-1">85262acf3ca9816f9537</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>CDDL-1.1</id>
+          <name>CDDL-1.1</name>
+        </license>
+        <license>
+          <id>GPL-2.0-with-classpath-exception</id>
+          <name>GPL-2.0-with-classpath-exception</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/javax.activation/javax.activation-api@1.2.0?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.jboss.logging</group>
+      <name>jboss-logging</name>
+      <version>3.4.3.Final</version>
+      <hashes>
+        <hash alg="SHA-1">c4bd7e12a745c0e7f6cf</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.jboss.logging/jboss-logging@3.4.3.Final?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.amazonaws</group>
+      <name>jmespath-java</name>
+      <version>1.11.289</version>
+      <hashes>
+        <hash alg="SHA-1">a35b957d5eec5aa0d56f</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.amazonaws/jmespath-java@1.11.289?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>joda-time</group>
+      <name>joda-time</name>
+      <version>2.8.1</version>
+      <hashes>
+        <hash alg="SHA-1">f5bfc718c95a7b1d3c37</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/joda-time/joda-time@2.8.1?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>com.googlecode.json-simple</group>
+      <name>json-simple</name>
+      <version>1.1</version>
+      <hashes>
+        <hash alg="SHA-1">5e303a03d04e6788dddf</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.googlecode.json-simple/json-simple@1.1?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.slf4j</group>
+      <name>jul-to-slf4j</name>
+      <version>1.7.36</version>
+      <hashes>
+        <hash alg="SHA-1">ed46d81cef9c412a88ca</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>MIT</id>
+          <name>MIT</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.slf4j/jul-to-slf4j@1.7.36?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.apache.logging.log4j</group>
+      <name>log4j-api</name>
+      <version>2.17.2</version>
+      <hashes>
+        <hash alg="SHA-1">f42d6afa111b4dec5d2a</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.apache.logging.log4j/log4j-api@2.17.2?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.apache.logging.log4j</group>
+      <name>log4j-to-slf4j</name>
+      <version>2.17.2</version>
+      <hashes>
+        <hash alg="SHA-1">17dd0fae2747d9a28c67</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.apache.logging.log4j/log4j-to-slf4j@2.17.2?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>ch.qos.logback</group>
+      <name>logback-classic</name>
+      <version>1.2.11</version>
+      <hashes>
+        <hash alg="SHA-1">4741689214e9d1e8408b</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>EPL-1.0</id>
+          <name>EPL-1.0</name>
+        </license>
+        <license>
+          <id>LGPL-2.1</id>
+          <name>LGPL-2.1</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/ch.qos.logback/logback-classic@1.2.11?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>ch.qos.logback</group>
+      <name>logback-core</name>
+      <version>1.2.11</version>
+      <hashes>
+        <hash alg="SHA-1">a01230df5ca5c34540cd</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>EPL-1.0</id>
+          <name>EPL-1.0</name>
+        </license>
+        <license>
+          <id>LGPL-2.1</id>
+          <name>LGPL-2.1</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/ch.qos.logback/logback-core@1.2.11?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.projectlombok</group>
+      <name>lombok</name>
+      <version>1.18.2</version>
+      <hashes>
+        <hash alg="SHA-1">524e0a697e9d62950b2f</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>MIT</id>
+          <name>MIT</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.projectlombok/lombok@1.18.2?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>io.micrometer</group>
+      <name>micrometer-core</name>
+      <version>1.8.4</version>
+      <hashes>
+        <hash alg="SHA-1">98545d1d1ea11c457dfa</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+        <license>
+          <id>MIT</id>
+          <name>MIT</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/io.micrometer/micrometer-core@1.8.4?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>io.netty</group>
+      <name>netty-buffer</name>
+      <version>4.1.75.Final</version>
+      <hashes>
+        <hash alg="SHA-1">d9e9493febdf640c78c6</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/io.netty/netty-buffer@4.1.75.Final?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>io.netty</group>
+      <name>netty-codec</name>
+      <version>4.1.75.Final</version>
+      <hashes>
+        <hash alg="SHA-1">d164d41f04397142a271</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/io.netty/netty-codec@4.1.75.Final?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>io.netty</group>
+      <name>netty-codec-http</name>
+      <version>4.1.75.Final</version>
+      <hashes>
+        <hash alg="SHA-1">5d1dc163f52f8bc5a5dc</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>BSD-3-Clause</id>
+          <name>BSD-3-Clause</name>
+        </license>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+        <license>
+          <id>MIT</id>
+          <name>MIT</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/io.netty/netty-codec-http@4.1.75.Final?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>io.netty</group>
+      <name>netty-common</name>
+      <version>4.1.75.Final</version>
+      <hashes>
+        <hash alg="SHA-1">84c32aa0e36b450d739c</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+        <license>
+          <id>MIT</id>
+          <name>MIT</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/io.netty/netty-common@4.1.75.Final?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>io.netty</group>
+      <name>netty-handler</name>
+      <version>4.1.75.Final</version>
+      <hashes>
+        <hash alg="SHA-1">fb646b2e4198b38c005c</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/io.netty/netty-handler@4.1.75.Final?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>io.netty</group>
+      <name>netty-resolver</name>
+      <version>4.1.75.Final</version>
+      <hashes>
+        <hash alg="SHA-1">cfc86468b5b52e84e1e9</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/io.netty/netty-resolver@4.1.75.Final?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>io.netty</group>
+      <name>netty-transport</name>
+      <version>4.1.75.Final</version>
+      <hashes>
+        <hash alg="SHA-1">4cd32ce8608e7858e7e6</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/io.netty/netty-transport@4.1.75.Final?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.slf4j</group>
+      <name>slf4j-api</name>
+      <version>1.7.36</version>
+      <hashes>
+        <hash alg="SHA-1">6c62681a2f655b49963a</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>MIT</id>
+          <name>MIT</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.slf4j/slf4j-api@1.7.36?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.yaml</group>
+      <name>snakeyaml</name>
+      <version>1.29</version>
+      <hashes>
+        <hash alg="SHA-1">6d0cdafb2010f1297e57</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>GPL-2.0</id>
+          <name>GPL-2.0</name>
+        </license>
+        <license>
+          <id>EPL-1.0</id>
+          <name>EPL-1.0</name>
+        </license>
+        <license>
+          <id>BSD-UNSPECIFIED</id>
+          <name>BSD</name>
+        </license>
+        <license>
+          <id>LGPL-2.1</id>
+          <name>LGPL-2.1</name>
+        </license>
+        <license>
+          <id>GPL-3.0</id>
+          <name>GPL-3.0</name>
+        </license>
+        <license>
+          <id>LGPL-3.0</id>
+          <name>LGPL-3.0</name>
+        </license>
+        <license>
+          <id>EPL-2.0</id>
+          <name>EPL-2.0</name>
+        </license>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.yaml/snakeyaml@1.29?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework</group>
+      <name>spring-aop</name>
+      <version>5.3.18</version>
+      <hashes>
+        <hash alg="SHA-1">8e9cce60c60257ae1d5b</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework/spring-aop@5.3.18?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework</group>
+      <name>spring-beans</name>
+      <version>5.3.18</version>
+      <hashes>
+        <hash alg="SHA-1">3f0ea6598a5a1eae0a67</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework/spring-beans@5.3.18?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework.boot</group>
+      <name>spring-boot</name>
+      <version>2.6.6</version>
+      <hashes>
+        <hash alg="SHA-1">286137a0c57d159f845f</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework.boot/spring-boot@2.6.6?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework.boot</group>
+      <name>spring-boot-actuator</name>
+      <version>2.6.6</version>
+      <hashes>
+        <hash alg="SHA-1">f8a4fe16f0b4b592934a</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework.boot/spring-boot-actuator@2.6.6?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework.boot</group>
+      <name>spring-boot-actuator-autoconfigure</name>
+      <version>2.6.6</version>
+      <hashes>
+        <hash alg="SHA-1">c0c78a2df989df5cec0e</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework.boot/spring-boot-actuator-autoconfigure@2.6.6?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework.boot</group>
+      <name>spring-boot-autoconfigure</name>
+      <version>2.6.6</version>
+      <hashes>
+        <hash alg="SHA-1">e5b575d304ec5c6746fe</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.6.6?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework.boot</group>
+      <name>spring-boot-jarmode-layertools</name>
+      <version>2.7.3</version>
+      <hashes>
+        <hash alg="SHA-1">6a293cc014eee52786b2</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework.boot/spring-boot-jarmode-layertools@2.7.3?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework.cloud</group>
+      <name>spring-cloud-aws-core</name>
+      <version>2.2.6.RELEASE</version>
+      <hashes>
+        <hash alg="SHA-1">34b42c1a931b1cb32750</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework.cloud/spring-cloud-aws-core@2.2.6.RELEASE?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework.cloud</group>
+      <name>spring-cloud-aws-parameter-store-config</name>
+      <version>2.2.6.RELEASE</version>
+      <hashes>
+        <hash alg="SHA-1">2926ec9ab403d675237a</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework.cloud/spring-cloud-aws-parameter-store-config@2.2.6.RELEASE?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework.cloud</group>
+      <name>spring-cloud-commons</name>
+      <version>3.1.1</version>
+      <hashes>
+        <hash alg="SHA-1">1317639e04d2813f5492</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework.cloud/spring-cloud-commons@3.1.1?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework.cloud</group>
+      <name>spring-cloud-context</name>
+      <version>3.1.1</version>
+      <hashes>
+        <hash alg="SHA-1">2c7acac07f30f66db8ab</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework.cloud/spring-cloud-context@3.1.1?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework.cloud</group>
+      <name>spring-cloud-starter</name>
+      <version>3.1.1</version>
+      <hashes>
+        <hash alg="SHA-1">d2b4f0a5522ef7656fae</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>UNSPECIFIED</id>
+          <name>Not Provided</name>
+        </license>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework.cloud/spring-cloud-starter@3.1.1?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework.cloud</group>
+      <name>spring-cloud-starter-aws-parameter-store-config</name>
+      <version>2.2.6.RELEASE</version>
+      <hashes>
+        <hash alg="SHA-1">bff55cc48fa08dbdf328</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework.cloud/spring-cloud-starter-aws-parameter-store-config@2.2.6.RELEASE?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework.cloud</group>
+      <name>spring-cloud-starter-bootstrap</name>
+      <version>3.1.1</version>
+      <hashes>
+        <hash alg="SHA-1">85f5e328959c810d943d</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework.cloud/spring-cloud-starter-bootstrap@3.1.1?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework</group>
+      <name>spring-context</name>
+      <version>5.3.18</version>
+      <hashes>
+        <hash alg="SHA-1">34f6683d9dbe6edb02ad</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework/spring-context@5.3.18?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework</group>
+      <name>spring-core</name>
+      <version>5.3.18</version>
+      <hashes>
+        <hash alg="SHA-1">7ff3000f3342989cb011</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>BSD-3-Clause</id>
+          <name>BSD-3-Clause</name>
+        </license>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework/spring-core@5.3.18?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework</group>
+      <name>spring-expression</name>
+      <version>5.3.18</version>
+      <hashes>
+        <hash alg="SHA-1">61c51831e49a85fc5bf9</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework/spring-expression@5.3.18?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework</group>
+      <name>spring-jcl</name>
+      <version>5.3.18</version>
+      <hashes>
+        <hash alg="SHA-1">7e5d8cd447981bc20d4c</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework/spring-jcl@5.3.18?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework.security</group>
+      <name>spring-security-crypto</name>
+      <version>5.6.2</version>
+      <hashes>
+        <hash alg="SHA-1">5269573116427e6a580f</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>ISC</id>
+          <name>ISC</name>
+        </license>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework.security/spring-security-crypto@5.6.2?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework.security</group>
+      <name>spring-security-rsa</name>
+      <version>1.0.10.RELEASE</version>
+      <hashes>
+        <hash alg="SHA-1">675a247df1197b98c8c9</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework.security/spring-security-rsa@1.0.10.RELEASE?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework</group>
+      <name>spring-web</name>
+      <version>5.3.18</version>
+      <hashes>
+        <hash alg="SHA-1">8db103c4109e925ec6f5</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework/spring-web@5.3.18?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springframework</group>
+      <name>spring-webmvc</name>
+      <version>5.3.18</version>
+      <hashes>
+        <hash alg="SHA-1">806b4ac997761daa32cb</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springframework/spring-webmvc@5.3.18?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springdoc</group>
+      <name>springdoc-openapi-common</name>
+      <version>1.6.7</version>
+      <hashes>
+        <hash alg="SHA-1">d430e378260faa014551</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springdoc/springdoc-openapi-common@1.6.7?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springdoc</group>
+      <name>springdoc-openapi-ui</name>
+      <version>1.6.7</version>
+      <hashes>
+        <hash alg="SHA-1">fc5c49ee287df534a695</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springdoc/springdoc-openapi-ui@1.6.7?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.springdoc</group>
+      <name>springdoc-openapi-webmvc-core</name>
+      <version>1.6.7</version>
+      <hashes>
+        <hash alg="SHA-1">4a0272343babe2c74746</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.springdoc/springdoc-openapi-webmvc-core@1.6.7?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>io.swagger.core.v3</group>
+      <name>swagger-annotations</name>
+      <version>2.2.0</version>
+      <hashes>
+        <hash alg="SHA-1">404f8a4159d7d6034c3e</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/io.swagger.core.v3/swagger-annotations@2.2.0?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>io.swagger.core.v3</group>
+      <name>swagger-core</name>
+      <version>2.2.0</version>
+      <hashes>
+        <hash alg="SHA-1">cc13730807aa6649f91a</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/io.swagger.core.v3/swagger-core@2.2.0?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>io.swagger.core.v3</group>
+      <name>swagger-models</name>
+      <version>2.2.0</version>
+      <hashes>
+        <hash alg="SHA-1">4c2a02014692b378d92c</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/io.swagger.core.v3/swagger-models@2.2.0?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.webjars</group>
+      <name>swagger-ui</name>
+      <version>4.10.3</version>
+      <hashes>
+        <hash alg="SHA-1">c770b50a519df6a17100</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>UNSPECIFIED</id>
+          <name>Not Provided</name>
+        </license>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.webjars/swagger-ui@4.10.3?type=jar</purl>
+      <modified>false</modified>
+      <components>
+        <component type="library">
+          <name>swagger-ui-dist</name>
+          <version>4.9.0</version>
+          <hashes>
+            <hash alg="SHA-1">8492c220cf88dcc93ba9</hash>
+          </hashes>
+          <licenses>
+            <license>
+              <id>Apache-2.0</id>
+              <name>Apache-2.0</name>
+            </license>
+            <license>
+              <id>Not-Supported</id>
+              <name>Not Supported</name>
+            </license>
+          </licenses>
+          <purl>pkg:a-name/swagger-ui-dist@4.9.0</purl>
+          <modified>false</modified>
+        </component>
+        <component type="library">
+          <name>org.webjars swagger-ui</name>
+          <version>4.10.3</version>
+          <hashes>
+            <hash alg="SHA-1">0e36987538f3cd5eaf3b</hash>
+          </hashes>
+          <licenses>
+            <license>
+              <id>Apache-2.0</id>
+              <name>Apache-2.0</name>
+            </license>
+            <license>
+              <id>Not-Supported</id>
+              <name>Not Supported</name>
+            </license>
+          </licenses>
+          <purl>pkg:a-name/org.webjars%20swagger-ui@4.10.3</purl>
+          <modified>false</modified>
+        </component>
+        <component type="library">
+          <name>swagger-ui</name>
+          <version>4.10.3</version>
+          <hashes>
+            <hash alg="SHA-1">e1e3abef7328c9b0b8a3</hash>
+          </hashes>
+          <licenses>
+            <license>
+              <id>Apache-2.0</id>
+              <name>Apache-2.0</name>
+            </license>
+            <license>
+              <id>Not-Supported</id>
+              <name>Not Supported</name>
+            </license>
+          </licenses>
+          <purl>pkg:a-name/swagger-ui@4.10.3</purl>
+          <modified>false</modified>
+        </component>
+      </components>
+    </component>
+    <component type="library">
+      <group>org.threeten</group>
+      <name>threetenbp</name>
+      <version>1.3.1</version>
+      <hashes>
+        <hash alg="SHA-1">5769e9c27cd5ba74cd3a</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>BSD-3-Clause</id>
+          <name>BSD-3-Clause</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.threeten/threetenbp@1.3.1?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.apache.tomcat.embed</group>
+      <name>tomcat-embed-core</name>
+      <version>9.0.60</version>
+      <hashes>
+        <hash alg="SHA-1">0e14045220243804544d</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>CDDL-1.1</id>
+          <name>CDDL-1.1</name>
+        </license>
+        <license>
+          <id>GPL-2.0-with-classpath-exception</id>
+          <name>GPL-2.0-with-classpath-exception</name>
+        </license>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.60?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.apache.tomcat.embed</group>
+      <name>tomcat-embed-el</name>
+      <version>9.0.60</version>
+      <hashes>
+        <hash alg="SHA-1">46dad1a278f348ca7346</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@9.0.60?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.apache.tomcat.embed</group>
+      <name>tomcat-embed-websocket</name>
+      <version>9.0.60</version>
+      <hashes>
+        <hash alg="SHA-1">a88262a55ae2c4b54041</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <name>Apache-2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.apache.tomcat.embed/tomcat-embed-websocket@9.0.60?type=jar</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <group>org.webjars</group>
+      <name>webjars-locator-core</name>
+      <version>0.48</version>
+      <hashes>
+        <hash alg="SHA-1">11f36ce080eb72348d93</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>MIT</id>
+          <name>MIT</name>
+        </license>
+        <license>
+          <id>No-Source-License</id>
+          <name>No Source License</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.webjars/webjars-locator-core@0.48?type=jar</purl>
+      <modified>false</modified>
+    </component>
+  </components>
+  <externalReferences><reference type="bom"><url>https://iq.altusplatform.com/ui/links/application/ConfigService/report/c32519aa0c3a45a08450f6b7e56f0e56</url><comment>IQ Report</comment></reference></externalReferences>
+</bom>
